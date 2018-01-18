@@ -1,3 +1,4 @@
+~~~~
 var xStr = prompt();
 var xList = xStr.split('');
 var addr = xStr;
@@ -18,3 +19,4 @@ while (!testAddr(xList, addr)){
 }
 
 console.log(key.getBitcoinWalletImportFormat(), addr);
+~~~~
