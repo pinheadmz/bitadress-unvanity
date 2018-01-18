@@ -8,7 +8,7 @@ For Cryptograffiti: https://twitter.com/cryptograffiti/status/954099904447524864
 The console will generate addresses until it finds one that doesn't have those characters in it:
 (The more you hate, the longer it takes to generate!)
 
-Example output:
+Example console output (ignore the website itself, all the goods are in the console):
 ~~~~
 0 "s" 0
 1 "S" 22
